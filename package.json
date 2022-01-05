@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "go": "yarn run tsc ./index.ts && node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "randsum": "^1.3.0",
+    "typescript": "^4.5.4"
+  }
+}
